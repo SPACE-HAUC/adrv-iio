@@ -14,7 +14,7 @@
 # Lesser General Public License for more details.
 
 
-TARGETS := ad9361-iiostream ad9371-iiostream dummy-iiostream iio-monitor
+TARGETS := ad9361-iiostream 
 
 CFLAGS = -Wall
 
