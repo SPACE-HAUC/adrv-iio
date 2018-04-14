@@ -271,7 +271,7 @@ int main (int argc, char **argv)
 			((int16_t*)p_dat)[0] = q;
 			((int16_t*)p_dat)[1] = i;
 			if (count % 20) {
-				printf("i: %d, q: %d", i, q);
+				printf("i: %d, q: %d\n", i, q);
 			}
 			count++;
 		}
